@@ -159,7 +159,7 @@ enum CalcButton: String {
     
     var buttonColor: Color {
         switch self {
-        case .add, .subtract, .multiply, .divide, .equal:
+        case .add, .subtract, .multiply, .divide, .equal,.backspace:
             return .orange
         case .clear, .negative, .percent:
             return Color(.lightGray)
