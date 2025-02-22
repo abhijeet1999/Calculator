@@ -34,7 +34,7 @@ To save a screenshot of the calculator display:
 
 ### Screenshot
 
-![myCalculator Screenshot](Images/calculator_screenshot.png)
+<img src="Images/calculator_screenshot.png" alt="myCalculator Screenshot" width="300"/>
 
 ## Resources Used
 
