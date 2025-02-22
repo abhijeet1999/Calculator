@@ -32,9 +32,15 @@ To save a screenshot of the calculator display:
 1. Tap the desired screen.
 2. Use the screenshot feature built into iOS (e.g., press the Power and Volume Up buttons simultaneously) to capture the current state of the app.
 
-### Screenshot
+### Screenshots
 
-<img src="Images/calculator_screenshot.png" alt="myCalculator Screenshot" width="300"/>
+#### Portrait Mode
+
+<img src="Images/calculator_portrait_screenshot.png" alt="Portrait Mode Screenshot" width="300"/>
+
+#### Landscape Mode
+
+<img src="Images/calculator_landscape_screenshot.png" alt="Landscape Mode Screenshot" width="300"/>
 
 ## Resources Used
 
