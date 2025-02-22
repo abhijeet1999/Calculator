@@ -25,13 +25,6 @@ The design of the app is kept minimalistic and functional, ensuring that the use
 - Error handling for division by zero.
 - The ability to take and save screenshots of the current calculator display.
 
-## Screenshot Feature
-
-To save a screenshot of the calculator display:
-
-1. Tap the desired screen.
-2. Use the screenshot feature built into iOS (e.g., press the Power and Volume Up buttons simultaneously) to capture the current state of the app.
-
 ### Screenshots
 
 #### Portrait Mode
