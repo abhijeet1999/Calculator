@@ -64,7 +64,7 @@ struct CalculatorView: View {
                     .foregroundColor(.white)
                     .padding()
                     .minimumScaleFactor(0.5)
-                    .lineLimit(1)
+                    .lineLimit(5)
             }
         }
     }
