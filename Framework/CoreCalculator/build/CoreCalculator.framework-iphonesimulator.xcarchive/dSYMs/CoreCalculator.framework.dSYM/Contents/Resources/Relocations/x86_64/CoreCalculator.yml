@@ -1,0 +1,15 @@
+---
+triple:          'x86_64-apple-darwin'
+binary-path:     '/Users/abhijeetcherungottil/Library/Developer/Xcode/DerivedData/CoreCalculator-dfonxbpfbsfdgdbwbhbsobyynohl/Build/Intermediates.noindex/ArchiveIntermediates/CoreCalculator/InstallationBuildProductsLocation/Library/Frameworks/CoreCalculator.framework/CoreCalculator'
+relocations:
+  - { offsetInCU: 0x34, offset: 0x556B2, size: 0x8, addend: 0x0, symName: _CoreCalculatorVersionString, symObjAddr: 0x0, symBinAddr: 0xE60, symSize: 0x0 }
+  - { offsetInCU: 0x69, offset: 0x556E7, size: 0x8, addend: 0x0, symName: _CoreCalculatorVersionNumber, symObjAddr: 0x38, symBinAddr: 0xE98, symSize: 0x0 }
+  - { offsetInCU: 0x27, offset: 0x55724, size: 0x8, addend: 0x0, symName: '-[Calculator add:with:]', symObjAddr: 0x0, symBinAddr: 0xCA8, symSize: 0xA }
+  - { offsetInCU: 0x69, offset: 0x55766, size: 0x8, addend: 0x0, symName: '-[Calculator add:with:]', symObjAddr: 0x0, symBinAddr: 0xCA8, symSize: 0xA }
+  - { offsetInCU: 0xBA, offset: 0x557B7, size: 0x8, addend: 0x0, symName: '-[Calculator subtract:with:]', symObjAddr: 0xA, symBinAddr: 0xCB2, symSize: 0xA }
+  - { offsetInCU: 0x10B, offset: 0x55808, size: 0x8, addend: 0x0, symName: '-[Calculator multiply:with:]', symObjAddr: 0x14, symBinAddr: 0xCBC, symSize: 0xA }
+  - { offsetInCU: 0x15C, offset: 0x55859, size: 0x8, addend: 0x0, symName: '-[Calculator divide:with:error:]', symObjAddr: 0x1E, symBinAddr: 0xCC6, symSize: 0xF8 }
+  - { offsetInCU: 0x1EB, offset: 0x558E8, size: 0x8, addend: 0x0, symName: '-[Calculator sine:]', symObjAddr: 0x116, symBinAddr: 0xDBE, symSize: 0xA }
+  - { offsetInCU: 0x22C, offset: 0x55929, size: 0x8, addend: 0x0, symName: '-[Calculator cosine:]', symObjAddr: 0x120, symBinAddr: 0xDC8, symSize: 0xA }
+  - { offsetInCU: 0x26D, offset: 0x5596A, size: 0x8, addend: 0x0, symName: '-[Calculator tangent:]', symObjAddr: 0x12A, symBinAddr: 0xDD2, symSize: 0xA }
+...

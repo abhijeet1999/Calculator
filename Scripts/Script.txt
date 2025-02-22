@@ -1,0 +1,27 @@
+Build the Frameworks for iOS and iOS Simulator
+
+Need to run to create framework for both simulator and iOS device
+
+
+
+xcodebuild archive \
+-scheme CoreCalculator \
+-sdk iphoneos \
+-archivePath ./build/CoreCalculator.framework-iphoneos.xcarchive \
+SKIP_INSTALL=NO \
+BUILD_LIBRARY_FOR_DISTRIBUTION=YES
+
+
+xcodebuild archive \
+-scheme CoreCalculator \
+-sdk iphonesimulator \
+-archivePath ./build/CoreCalculator.framework-iphonesimulator.xcarchive \
+SKIP_INSTALL=NO \
+BUILD_LIBRARY_FOR_DISTRIBUTION=YES
+
+
+xcodebuild -create-xcframework \
+-framework ./build/CoreCalculator.framework-iphoneos.xcarchive/Products/Library/Frameworks/CoreCalculator.framework \
+-framework ./build/CoreCalculator.framework-iphonesimulator.xcarchive/Products/Library/Frameworks/CoreCalculator.framework \
+-output ~/Desktop/CoreCalculator.xcframework
+
