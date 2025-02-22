@@ -1,4 +1,4 @@
-# myCalculator
+# MyCalculator
 
 `myCalculator` is the main app that serves as a simple and user-friendly calculator built using SwiftUI.
 
