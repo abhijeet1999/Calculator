@@ -40,7 +40,7 @@ To save a screenshot of the calculator display:
 
 #### Landscape Mode
 
-<img src="Images/calculator_landscape_screenshot.png" alt="Landscape Mode Screenshot" width="300"/>
+<img src="Images/calculator_landscape_screenshot.jpeg" alt="Landscape Mode Screenshot" width="300"/>
 
 ## Resources Used
 
